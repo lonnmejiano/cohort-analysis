@@ -30,7 +30,6 @@ Cohorts were created using `first_purchase_month` to define when a customer join
 - **SQL** – Cohort grouping, retention calculations, session-based queries
 - **Excel** – Pivot tables, retention matrix, conditional formatting
 - **Tableau (optional)** – Cohort decay heatmaps and trend lines
-- **Jupyter Notebook (optional)** – Data exploration with Pandas
 
 ---
 
@@ -56,4 +55,4 @@ Add visuals here (use relative paths if stored in your repo, or links to GitHub 
 
 ---
 
-## 📎 File Structure
+
