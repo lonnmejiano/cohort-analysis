@@ -1,3 +1,7 @@
+![cohort-analysis-1600x533](https://github.com/user-attachments/assets/006ff071-61d0-4be5-bcff-89f404760c39)
+
+
+
 # 📊 Business Analytics Review
 
 ## Overview
