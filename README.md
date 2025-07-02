@@ -52,7 +52,7 @@ Add visuals here (use relative paths if stored in your repo, or links to GitHub 
 
 ---
 
-## 💡 Recommendations
+## 💡Strategic Recommendation
 - Launch re-engagement campaigns around **30–60 days** post-signup
 - Segment users by early activity levels to personalize retention offers
 - Incentivize Month 2 purchases to extend the lifecycle
